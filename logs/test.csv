@@ -1,0 +1,15 @@
+Timestamp,Username,Action,Page,IPAddress,Device
+2023-11-20 10:00:00,user1,Login,HomePage,192.168.1.101,Desktop
+2023-11-20 10:05:00,user2,Login,Dashboard,192.168.1.102,Laptop
+2023-11-20 10:15:00,user1,Logout,HomePage,192.168.1.101,Desktop
+2023-11-20 10:20:00,user3,Login,ProfilePage,192.168.1.103,Tablet
+2023-11-20 10:30:00,user2,Logout,Dashboard,192.168.1.102,Laptop
+2023-11-20 10:35:00,user1,Login,ProfilePage,192.168.1.101,Desktop
+2023-11-20 10:45:00,user3,Logout,ProfilePage,192.168.1.103,Tablet
+2023-11-20 11:00:00,user4,Login,HomePage,192.168.1.104,Desktop
+2023-11-20 11:10:00,user5,Login,Dashboard,192.168.1.105,Laptop
+2023-11-20 11:15:00,user4,Logout,HomePage,192.168.1.104,Desktop
+2023-11-20 11:25:00,user6,Login,ProfilePage,192.168.1.106,Mobile
+2023-11-20 11:35:00,user5,Logout,Dashboard,192.168.1.105,Laptop
+2023-11-20 11:40:00,user4,Login,ProfilePage,192.168.1.104,Desktop
+2023-11-20 11:50:00,user6,Logout,ProfilePage,192.168.1.106,Mobile

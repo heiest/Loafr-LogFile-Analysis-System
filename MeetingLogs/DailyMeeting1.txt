@@ -1,0 +1,6 @@
+12/5/23:
+
+Daily Standup Meeting 1:
+-  Discussed and reviewed the creation of the backlog tasks and ensured that the specified tasks were of accomplishable difficulty within the desired timeframe
+-  Roughly planned out which individual within the team would work on what tasks in the backlog
+-  Finalized strategy to keep track of evidence for spint meetings.  Will use git to keep track of commit dates and timestamps for honest and date accurant edits

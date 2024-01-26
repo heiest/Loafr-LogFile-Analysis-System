@@ -1,0 +1,15 @@
+12/10/23:
+
+Daily Standup Meeting:
+- Progress slowed down slightly over the weekend in relation to the main implementation tasks for backlogs 1&2 this weekend.
+- Task 5 progressed nicely as good documentation was written for the newly added features
+- Creation of error handling for task 4 must wait until the final implementation of tasks 1 and 2 is done
+- General plan outline is to finish up implementation and testing / error handling by Tuesday 12/12
+
+Status of Backlog Tasks:
+Task 1/2: In progress (close to done)
+Task 3: Done (test csv created for sample purpose)
+Task 4: Done (can be refined as code continues to be modified)
+Task 5: Not started
+
+// Consult planning meeting for backlog items
